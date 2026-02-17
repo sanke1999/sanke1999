@@ -1,0 +1,70 @@
+username: sanke1999
+
+profile:
+  name: "panda777"
+  tagline: "Network Engineer & Cloud Tinkerer"
+  company: ""
+  location: ""
+  bio: |
+    折腾网络工具和云服务的爱好者。
+    喜欢用 Cloudflare Workers 搞事情。
+  philosophy: '"Keep it simple, make it work."'
+
+social:
+  email: ""
+  linkedin: ""
+  website: ""
+
+galaxy_arms:
+  - name: "Network & Proxy"
+    color: "synapse_cyan"
+    items:
+      - "Clash"
+      - "Surge"
+      - "Nezha"
+  - name: "Cloud & DevOps"
+    color: "dendrite_violet"
+    items:
+      - "Cloudflare"
+      - "Docker"
+      - "Shell"
+  - name: "Frontend"
+    color: "axon_amber"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Next.js"
+
+projects:
+  - repo: "sanke1999/-OpenClawInstaller"
+    arm: 0
+    description: "OpenClaw 安装脚本，一键部署。"
+  - repo: "sanke1999/1Dracula"
+    arm: 2
+    description: "Dracula 主题相关项目。"
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Makefile"
+  max_display: 8
